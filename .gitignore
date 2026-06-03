@@ -1,0 +1,9 @@
+# Local environment
+*.log
+
+# Uploaded files and generated content
+uploads/
+
+# OS files
+.DS_Store
+Thumbs.db
